@@ -1,0 +1,10 @@
+MatCommon {
+ Color 0.251 0.502 0 1
+ SortBias 5
+ CastShadow 0
+ ReceiveShadow 0
+ AlphaMul 0.2
+ BlendMode AlphaBlend
+ DisableVertexColor 1
+ DisablePrexposure 1
+}

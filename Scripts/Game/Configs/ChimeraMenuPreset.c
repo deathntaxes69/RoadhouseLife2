@@ -1,0 +1,22 @@
+modded enum ChimeraMenuPreset
+{
+	RL_RespawnMenu,
+	RL_GarageMenu,
+	RL_VehicleShopMenu,
+	RL_ClothingShopMenu,
+	RL_ItemShopMenu,
+	RL_FurnitureShopMenu,
+	RL_AtmMenu,
+	RL_GiveMoneyMenu,
+	RL_PhoneMenu,
+	RL_PoliceChargeMenu,
+	RL_craftingMenu,
+	RL_BankMinigameMenu,
+	RL_SlotsUI,
+	RL_PayFeesMenu,
+	RL_GangAtmMenu,
+	RL_HouseUpgradeMenu,
+	//RL_DeathScreenMenu,
+	RL_KeysMenu,
+	RL_VehicleColorModMenu
+}

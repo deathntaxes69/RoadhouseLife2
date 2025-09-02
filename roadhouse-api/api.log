@@ -1,0 +1,3073 @@
+
+-----------------------------------------
+=> 2025-09-02T16:42:26.774Z | Incoming Request: GET /controlzone/get/1
+   Request Body: Empty
+-----------------------------------------
+=> 2025-09-02T16:42:26.789Z | Incoming Request: GET /controlzone/get/2
+   Request Body: Empty
+-----------------------------------------
+=> 2025-09-02T16:42:29.508Z | Incoming Request: POST /housing/sync
+   Request Body: {
+  "houses": [
+    {
+      "uniqueId": "5945_499_8182",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5838_495_8373",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5957_502_8150",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5806_496_8308",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5919_495_8334",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5892_495_8372",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5912_495_8283",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5935_498_8216",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5976_508_8122",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5901_502_8129",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5917_508_8088",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "2938_354_5701",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "2828_354_5751",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "2855_391_5584",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "2887_391_5544",
+      "prefab": "{844E23414DFCAC42}Prefabs/House_02/House_02_Blue.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "2985_354_5661",
+      "prefab": "{9E10007BD450C0D4}Prefabs/House_02/House_02_Yellow.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "2747_391_5710",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "2818_391_5624",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "2881_354_5751",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "2804_391_5660",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "2736_410_5605",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3016_355_5599",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8675_8_7019",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8610_8_6961",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8627_8_7027",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8613_8_7004",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8669_8_6993",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3265_94_7755",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4184_76_6591",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4154_76_6447",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3219_94_7564",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3263_95_7582",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3286_94_7646",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4223_76_6551",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4211_76_6595",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3285_95_7601",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3220_94_7716",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3219_94_7663",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3264_94_7728",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3264_94_7673",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3219_94_7589",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3262_95_7554",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3218_94_7537",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3262_94_7524",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3953_57_2098",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "3981_57_2105",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "3985_57_2008",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "4000_57_2054",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9041_81_4303",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9025_81_4285",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9043_81_4334",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9031_81_4360",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5283_13_2825",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5265_13_2803",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5246_13_2858",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5210_13_2812",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5319_13_2871",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5301_13_2848",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5194_22_2976",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5079_30_2887",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5193_12_2788",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5118_22_2845",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5103_30_2935",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5145_22_2898",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5281_13_2903",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5337_13_2894",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5264_13_2880",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5228_13_2835",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5228_12_2756",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5161_22_2923",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5117_30_2958",
+      "prefab": "{3620F29269C423A7}Prefabs/House_02/House_02_Blue_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "5154_30_3033",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5091_30_2912",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "5133_22_2874",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "5317_13_2949",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5354_13_2916",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5299_12_2926",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5248_13_2780",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5199_13_2736",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5211_22_2995",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "5175_22_2948",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "5128_30_2984",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "5142_30_3008",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3703_203_3892",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3497_187_3790",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4269_203_3641",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4228_203_3521",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3606_203_3788",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3669_187_3980",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4202_203_3609",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3554_203_3723",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "4234_203_3624",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4052_203_3518",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4179_203_3496",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3732_203_3472",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3778_190_3426",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3703_203_3460",
+      "prefab": "{3620F29269C423A7}Prefabs/House_02/House_02_Blue_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3756_203_3949",
+      "prefab": "{844E23414DFCAC42}Prefabs/House_02/House_02_Blue.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4302_203_3664",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4105_203_3592",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3804_190_3441",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3527_187_3823",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3722_190_3401",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3524_203_3688",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3638_187_3946",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4331_203_3693",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4020_203_3492",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4125_203_3477",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3731_203_3918",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3556_187_3856",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4083_203_3548",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3695_187_4014",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3623_214_3706",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "4358_203_3717",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "4271_203_3550",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3636_203_3823",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3788_203_4072",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3600_214_3666",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "4381_203_3746",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3784_203_4029",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3647_214_3737",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3450_187_3724",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3473_187_3755",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3107_94_7555",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3089_94_7535",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3112_94_7511",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3135_94_7606",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3139_94_7514",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3184_94_7568",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3183_94_7534",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3136_94_7551",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3136_94_7580",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3187_94_7597",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "9901_9_9647",
+      "prefab": "",
+      "buyPrice": 1000000000,
+      "sellPrice": 1
+    },
+    {
+      "uniqueId": "9901_9_9600",
+      "prefab": "",
+      "buyPrice": 1000000000,
+      "sellPrice": 1
+    },
+    {
+      "uniqueId": "9942_9_9674",
+      "prefab": "",
+      "buyPrice": 1000000000,
+      "sellPrice": 1
+    },
+    {
+      "uniqueId": "8674_12_3838",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8751_12_3960",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3675_203_3445",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3789_203_3500",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3834_190_3452",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8732_11_3846",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8740_8_3716",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8809_11_3684",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8711_12_3900",
+      "prefab": "{9E10007BD450C0D4}Prefabs/House_02/House_02_Yellow.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8887_14_3670",
+      "prefab": "{9E10007BD450C0D4}Prefabs/House_02/House_02_Yellow.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8564_40_3612",
+      "prefab": "{9E10007BD450C0D4}Prefabs/House_02/House_02_Yellow.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8767_11_3688",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8712_11_3816",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3760_203_3489",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3749_190_3417",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8690_11_3868",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8844_14_3665",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8747_12_3876",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8722_8_3743",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8959_16_3632",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8657_42_3609",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8766_12_3905",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8707_9_3780",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8782_11_3644",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8783_12_3944",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8617_42_3615",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8727_12_3927",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8924_15_3661",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8887_8_8180",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8907_8_8205",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8876_8_8250",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8852_8_8184",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8868_8_8183",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8890_8_8247",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8911_8_8248",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8893_8_8206",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8857_8_8207",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8906_8_8181",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8878_8_8209",
+      "prefab": "{E3715323095B1A3D}Prefabs/House_03/House_03_Blue_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "9052_10_8219",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9059_10_8236",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9081_10_8235",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9073_10_8219",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9095_10_8220",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9101_10_8236",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9124_10_8238",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9116_10_8222",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9137_10_8224",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9144_10_8242",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9768_159_7965",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9786_159_7987",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9749_159_7941",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9729_159_7917",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9710_159_7894",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9669_159_7907",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9689_159_7932",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9710_159_7957",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9730_159_7981",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9747_159_8003",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9765_159_8024",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9689_159_7867",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9650_159_7883",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "8028_32_5182",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8154_32_5264",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3166_95_7695",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "7820_1_5112",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8223_32_5268",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8267_32_5148",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "7986_28_5345",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8045_32_5241",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8080_32_5223",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3218_94_7740",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "7858_1_5139",
+      "prefab": "{6F3362219FCAC8D9}Prefabs/House_02/House_02_pink.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3168_95_7774",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8137_28_5310",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8172_28_5348",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8075_32_5284",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8095_32_5185",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8188_32_5231",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3216_94_7693",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "7889_1_5168",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8113_32_5258",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8057_28_5373",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8139_32_5182",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8136_32_5131",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3169_95_7753",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "7836_1_5121",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8201_32_5088",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8273_32_5221",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8128_28_5376",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "7961_28_5271",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8244_32_5096",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "7966_28_5312",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3268_95_7702",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3215_95_7767",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3174_95_7717",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3170_95_7662",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "7873_1_5155",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "7905_1_5187",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5206_143_7098",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5270_143_7148",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5300_143_7069",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5345_143_7178",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5378_143_7133",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5248_143_7077",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5249_143_7132",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5291_143_7165",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5279_143_7052",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5321_143_7085",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5270_143_7088",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5255_143_7089",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5306_143_7129",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5228_143_7115",
+      "prefab": "{EF423DE621311948}Prefabs/Trailer04.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5342_143_7102",
+      "prefab": "{EF423DE621311948}Prefabs/Trailer04.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5325_143_7140",
+      "prefab": "{EF423DE621311948}Prefabs/Trailer04.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5320_143_7126",
+      "prefab": "{EF423DE621311948}Prefabs/Trailer04.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    }
+  ]
+}
+<= 2025-09-02T16:42:29.599Z | Outgoing Response Status: 200 (Bypassed Formatter)
+   Response Body (raw JSON):
+[]
+-----------------------------------------
+=> 2025-09-02T16:43:14.926Z | Incoming Request: GET /fetchcharacters/b000e2e4-36a9-4d8b-8f4d-4333e2bcf419
+   Request Body: Empty
+-----------------------------------------
+=> 2025-09-02T17:07:42.882Z | Incoming Request: GET /controlzone/get/1
+   Request Body: Empty
+<= 2025-09-02T17:07:42.891Z | Outgoing Response Status: 200 (Raw Send)
+   Response Body (raw):
+{"m_iZoneId":1,"m_sOwnerFaction":"","m_iTaxAmount":0}
+-----------------------------------------
+=> 2025-09-02T17:07:42.893Z | Incoming Request: GET /controlzone/get/2
+   Request Body: Empty
+<= 2025-09-02T17:07:42.895Z | Outgoing Response Status: 200 (Raw Send)
+   Response Body (raw):
+{"m_iZoneId":2,"m_sOwnerFaction":"","m_iTaxAmount":0}
+-----------------------------------------
+=> 2025-09-02T17:07:45.883Z | Incoming Request: POST /housing/sync
+   Request Body: {
+  "houses": [
+    {
+      "uniqueId": "5945_499_8182",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5838_495_8373",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5957_502_8150",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5806_496_8308",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5919_495_8334",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5892_495_8372",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5912_495_8283",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5935_498_8216",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5976_508_8122",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5901_502_8129",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5917_508_8088",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "2938_354_5701",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "2828_354_5751",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "2855_391_5584",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "2887_391_5544",
+      "prefab": "{844E23414DFCAC42}Prefabs/House_02/House_02_Blue.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "2985_354_5661",
+      "prefab": "{9E10007BD450C0D4}Prefabs/House_02/House_02_Yellow.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "2747_391_5710",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "2818_391_5624",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "2881_354_5751",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "2804_391_5660",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "2736_410_5605",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3016_355_5599",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8675_8_7019",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8610_8_6961",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8627_8_7027",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8613_8_7004",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8669_8_6993",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3265_94_7755",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4184_76_6591",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4154_76_6447",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3219_94_7564",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3263_95_7582",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3286_94_7646",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4223_76_6551",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4211_76_6595",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3285_95_7601",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3220_94_7716",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3219_94_7663",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3264_94_7728",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3264_94_7673",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3219_94_7589",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3262_95_7554",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3218_94_7537",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3262_94_7524",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3953_57_2098",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "3981_57_2105",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "3985_57_2008",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "4000_57_2054",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9041_81_4303",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9025_81_4285",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9043_81_4334",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9031_81_4360",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5283_13_2825",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5265_13_2803",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5246_13_2858",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5210_13_2812",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5319_13_2871",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5301_13_2848",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5194_22_2976",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5079_30_2887",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5193_12_2788",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5118_22_2845",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5103_30_2935",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5145_22_2898",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5281_13_2903",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5337_13_2894",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5264_13_2880",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5228_13_2835",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5228_12_2756",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5161_22_2923",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5117_30_2958",
+      "prefab": "{3620F29269C423A7}Prefabs/House_02/House_02_Blue_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "5154_30_3033",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5091_30_2912",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "5133_22_2874",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "5317_13_2949",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5354_13_2916",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5299_12_2926",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5248_13_2780",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5199_13_2736",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "5211_22_2995",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "5175_22_2948",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "5128_30_2984",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "5142_30_3008",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3703_203_3892",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3497_187_3790",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4269_203_3641",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4228_203_3521",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3606_203_3788",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3669_187_3980",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4202_203_3609",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3554_203_3723",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "4234_203_3624",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4052_203_3518",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "4179_203_3496",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3732_203_3472",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3778_190_3426",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3703_203_3460",
+      "prefab": "{3620F29269C423A7}Prefabs/House_02/House_02_Blue_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3756_203_3949",
+      "prefab": "{844E23414DFCAC42}Prefabs/House_02/House_02_Blue.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4302_203_3664",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4105_203_3592",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3804_190_3441",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3527_187_3823",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3722_190_3401",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3524_203_3688",
+      "prefab": "{8FA8FFA2D7435916}Prefabs/House_01/House_01_Yellow_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3638_187_3946",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4331_203_3693",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4020_203_3492",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4125_203_3477",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3731_203_3918",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3556_187_3856",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "4083_203_3548",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3695_187_4014",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3623_214_3706",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "4358_203_3717",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "4271_203_3550",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3636_203_3823",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3788_203_4072",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3600_214_3666",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "4381_203_3746",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3784_203_4029",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3647_214_3737",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3450_187_3724",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3473_187_3755",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3107_94_7555",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3089_94_7535",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3112_94_7511",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3135_94_7606",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3139_94_7514",
+      "prefab": "{3149575BAE8001DA}Prefabs/House_01/House_01_White_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3184_94_7568",
+      "prefab": "{86E5BB08BC3822B4}Prefabs/House_02/House_02_Yellow_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3183_94_7534",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3136_94_7551",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3136_94_7580",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3187_94_7597",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "9901_9_9647",
+      "prefab": "",
+      "buyPrice": 1000000000,
+      "sellPrice": 1
+    },
+    {
+      "uniqueId": "9901_9_9600",
+      "prefab": "",
+      "buyPrice": 1000000000,
+      "sellPrice": 1
+    },
+    {
+      "uniqueId": "9942_9_9674",
+      "prefab": "",
+      "buyPrice": 1000000000,
+      "sellPrice": 1
+    },
+    {
+      "uniqueId": "8674_12_3838",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8751_12_3960",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3675_203_3445",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3789_203_3500",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3834_190_3452",
+      "prefab": "{0B22F1AA618F5F99}Prefabs/House_01/House_01_Blue_Basement.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8732_11_3846",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8740_8_3716",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8809_11_3684",
+      "prefab": "{1B5CEB7D2E533157}Prefabs/House_01/House_01_Yellow.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8711_12_3900",
+      "prefab": "{9E10007BD450C0D4}Prefabs/House_02/House_02_Yellow.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8887_14_3670",
+      "prefab": "{9E10007BD450C0D4}Prefabs/House_02/House_02_Yellow.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8564_40_3612",
+      "prefab": "{9E10007BD450C0D4}Prefabs/House_02/House_02_Yellow.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8767_11_3688",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8712_11_3816",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3760_203_3489",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3749_190_3417",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8690_11_3868",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8844_14_3665",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8747_12_3876",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8722_8_3743",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8959_16_3632",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8657_42_3609",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8766_12_3905",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8707_9_3780",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8782_11_3644",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8783_12_3944",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8617_42_3615",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8727_12_3927",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8924_15_3661",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8887_8_8180",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8907_8_8205",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8876_8_8250",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8852_8_8184",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8868_8_8183",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8890_8_8247",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8911_8_8248",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8893_8_8206",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8857_8_8207",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8906_8_8181",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8878_8_8209",
+      "prefab": "{E3715323095B1A3D}Prefabs/House_03/House_03_Blue_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "9052_10_8219",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9059_10_8236",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9081_10_8235",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9073_10_8219",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9095_10_8220",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9101_10_8236",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9124_10_8238",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9116_10_8222",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9137_10_8224",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9144_10_8242",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9768_159_7965",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9786_159_7987",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9749_159_7941",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9729_159_7917",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9710_159_7894",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9669_159_7907",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9689_159_7932",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9710_159_7957",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9730_159_7981",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9747_159_8003",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9765_159_8024",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9689_159_7867",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "9650_159_7883",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "8028_32_5182",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8154_32_5264",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "3166_95_7695",
+      "prefab": "{04772451B4668AF6}Prefabs/House_01/House_01_White.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "7820_1_5112",
+      "prefab": "{154601113E298086}Prefabs/House_04/House_04_Blue.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8223_32_5268",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8267_32_5148",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "7986_28_5345",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8045_32_5241",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8080_32_5223",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3218_94_7740",
+      "prefab": "{2B7FEC5197A906A3}Prefabs/House_03/House_03_Basement.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "7858_1_5139",
+      "prefab": "{6F3362219FCAC8D9}Prefabs/House_02/House_02_pink.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3168_95_7774",
+      "prefab": "{A01080E11DE03E61}Prefabs/House_02/House_02.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8137_28_5310",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8172_28_5348",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8075_32_5284",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8095_32_5185",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "8188_32_5231",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "3216_94_7693",
+      "prefab": "{AEC8BBA6F5422FF7}Prefabs/House_02/House_02_Basement.et",
+      "buyPrice": 375000,
+      "sellPrice": 187000
+    },
+    {
+      "uniqueId": "7889_1_5168",
+      "prefab": "{BC322C595AA5219C}Prefabs/House_03/House_03_Blue.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8113_32_5258",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8057_28_5373",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8139_32_5182",
+      "prefab": "{CCCA326974163A20}Prefabs/House_01/House_01_Blue.et",
+      "buyPrice": 325000,
+      "sellPrice": 162000
+    },
+    {
+      "uniqueId": "8136_32_5131",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "3169_95_7753",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "7836_1_5121",
+      "prefab": "{CD1EEEEE3E5261B4}Prefabs/House_03/House_03.et",
+      "buyPrice": 300000,
+      "sellPrice": 150000
+    },
+    {
+      "uniqueId": "8201_32_5088",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8273_32_5221",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8128_28_5376",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "7961_28_5271",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "8244_32_5096",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "7966_28_5312",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3268_95_7702",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3215_95_7767",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3174_95_7717",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "3170_95_7662",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "7873_1_5155",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "7905_1_5187",
+      "prefab": "{CFB5A5B45D32467E}Prefabs/House_04/House_04.et",
+      "buyPrice": 200000,
+      "sellPrice": 100000
+    },
+    {
+      "uniqueId": "5206_143_7098",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5270_143_7148",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5300_143_7069",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5345_143_7178",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5378_143_7133",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5248_143_7077",
+      "prefab": "{D27618DE545D907F}Prefabs/Trailer03.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5249_143_7132",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5291_143_7165",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5279_143_7052",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5321_143_7085",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5270_143_7088",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5255_143_7089",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5306_143_7129",
+      "prefab": "{E66358F037BA055F}Prefabs/Trailer.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5228_143_7115",
+      "prefab": "{EF423DE621311948}Prefabs/Trailer04.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5342_143_7102",
+      "prefab": "{EF423DE621311948}Prefabs/Trailer04.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5325_143_7140",
+      "prefab": "{EF423DE621311948}Prefabs/Trailer04.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    },
+    {
+      "uniqueId": "5320_143_7126",
+      "prefab": "{EF423DE621311948}Prefabs/Trailer04.et",
+      "buyPrice": 75000,
+      "sellPrice": 32500
+    }
+  ]
+}
+<= 2025-09-02T17:07:45.946Z | Outgoing Response Status: 200 (Bypassed Formatter)
+   Response Body (raw JSON):
+[]
+<= 2025-09-02T17:07:45.947Z | Outgoing Response Status: 200 (Raw Send)
+   Response Body (raw):
+[]
+-----------------------------------------
+=> 2025-09-02T17:08:35.989Z | Incoming Request: GET /fetchcharacters/b000e2e4-36a9-4d8b-8f4d-4333e2bcf419
+   Request Body: Empty
+<= 2025-09-02T17:08:35.996Z | Outgoing Response Status: 200 (Raw Send)
+   Response Body (raw):
+{"data":{"characters":[{"uid":"b000e2e4-36a9-4d8b-8f4d-4333e2bcf419","name":"Death Ntaxes","age":42,"prefab":"{CE23D4366B47E9B9}Prefabs/Characters/Presets/White_Male_01.et","cash":0,"bank":0,"jailTime":0,"licenses":[],"recipes":[],"perks":[],"perkPoints":0,"gangId":"","gangRank":0,"skills":{},"apartmentId":0,"totalPlayTime":0,"lastLogin":"2025-09-02T16:13:13.417Z"}]},"accountid":1756751233,"whitelist":1,"linked":1}
