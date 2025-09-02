@@ -35,10 +35,8 @@ const fetchCharacters = async (req, res) => {
         const characters = await Character.find({ uid: uid });
 
         // **THE FIX:** The character array is now nested one level deeper.
-        const responseData = {
-            data: {
-                characters: characters.map(cleanCharacter)
-            },
+         const responseData = {
+            data: characters.map(cleanCharacter),
             accountid: account.accountId,
             whitelist: account.isWhitelisted ? 1 : -1,
             linked: account.isLinked ? 1 : -1,
